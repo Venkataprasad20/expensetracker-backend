@@ -35,4 +35,6 @@ build/
 # Ignore secrets
 .env
 
+# Spring Boot local config
+src/main/resources/application.properties
 
