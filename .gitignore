@@ -33,10 +33,6 @@ build/
 .vscode/
 
 # Ignore secrets
-application.properties
-application.yml
 .env
 
-application-*.properties
-*AwsConfig.java
 
